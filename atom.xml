@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>My Octopress Blog</title>
+  <link href="http://st44100.github.com/st44100/atom.xml" rel="self"/>
+  <link href="http://st44100.github.com/st44100/"/>
+  <updated>2011-09-30T19:11:42+09:00</updated>
+  <id>http://st44100.github.com/st44100/</id>
+  <author>
+    <name>Your Name</name>
+    
+  </author>
+
+  
+</feed>
